@@ -1,34 +1,7 @@
-## Collatz Programs
-The [Collatz Conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture) is a simple problem that has bedevilled mathematicians for a very long time. 
+## Orbit Counting Programs
+The [Collatz Conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture) is a simple problem that has bedevilled mathematicians for a very long time. In brief, pick any positive integer that is not 0, if it's even divide it by 2, if it's odd multiply it by 3 and add 1. Repeat this process ad infinitum, the conjecture asks if every number eventually reduces to 1. So far no counterexamples have been found and a lot of numbers have been tested, but there is no proof of the conjecture. This repository consists of two programs written in C using Netbeans that investigate the conjecture. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FuzzyBunnys/Collatz-Programs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Collatz Map
+This program tests the first two hundred odd integers, though it can easily be extended by modifying the variable of the main for loop. 
+### Limited Collatz Map
+This program tests the first two hundred odd integers as well
