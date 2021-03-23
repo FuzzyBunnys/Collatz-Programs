@@ -1,8 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/FuzzyBunnys/Collatz-Programs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Collatz Programs
+The [Collatz Conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture) is a simple problem that has bedevilled mathematicians for a very long time. 
 
 ### Markdown
 
