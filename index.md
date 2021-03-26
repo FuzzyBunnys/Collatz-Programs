@@ -43,8 +43,7 @@ This program tests the first two hundred odd integers, though it can easily be e
 
 
     // and pass out the new odd after it's been divided by 2
-
-};'
+    };'
 
 ### [Limited Collatz Map](https://github.com/FuzzyBunnys/Collatz-Programs/tree/main/Limited%20Collatz%20Map)
 This program tests the first two hundred odd integers as well but it only counts as far as the number of binary digits in the initial number.
