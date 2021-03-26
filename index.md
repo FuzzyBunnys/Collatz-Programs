@@ -61,6 +61,6 @@ Obviously any reasonable person at this point is asking why anyone would want to
    1010  
 <ins>+ 101</ins>  
    1111  
-<ins>+  1</ins>  
+<ins>+   1</ins>  
   10000  
                
