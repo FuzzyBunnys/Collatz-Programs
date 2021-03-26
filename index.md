@@ -63,4 +63,6 @@ Obviously any reasonable person at this point is asking why anyone would want to
    1111  
 <ins>+   1</ins>  
   10000  
+  
+  Terrible formatting of the math above aside (my kingdom for Latex!) hopefully the calculation is easy to follow. My programs were investigating this general idea, but looking for patterns that take longer than a single 3n + 1 step to form. 
                
