@@ -59,8 +59,8 @@ Where 103, is the number in decimal notation and 1100111 is the number in binary
 Obviously any reasonable person at this point is asking why anyone would want to do this. I was searching for patterns or classes of numbers that might obviously reduce to 1 in the Collatz Function. For example, if you look at the binary representation of a power of two (8 = 100). You will see immediately that any power of 2 will reduce to 1 since division by 2 in binary is equivalent to removing a 0 (just like division by 10 removes a 0 in decimal representation). If one thinks for a little bit, one can see that there is a class of number that when tripled and incremented by 1 become a power of 2. 5 * 3 + 1 = 16 is the smallest example of such a number, but there are lots of others (5, 21, 85 ...). In binary all of these odd numbers are of the form 10101..., if you double such a number and add it to itself in binary (2n +n = 3n) it becomes immediately apparent why these numbers behave in such a manner. 
 
    1010  
-[+  101]()  
+<ins>+  101<\ins> 
    1111  
-[+    1]()  
+[+    1]  
   10000  
                
