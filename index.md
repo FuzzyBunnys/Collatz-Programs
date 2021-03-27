@@ -52,7 +52,7 @@ This program tests the first two hundred odd integers as well but it only counts
 
     103 = ...1100111 { 1  1  2  1  1  1 }
 
-Where 103, is the number in decimal notation and 1100111 is the number in binary notation. The values in the brackets { 1 1 2 1 1 1} are the numbers of divisions by 2 that took place after each multiplication by 3 and addition of 1. For example, since 103 is an odd number, we would input it into the Collatz Function and obtain the following result. 3 * 103 + 1 = 310, we then divide by 2 310/2 = 155. Since we have an odd number the next step is to multiply by 3, and so the first value in the brackets is { 1 ...}. In this limited program the sum of the digits in the brackets is equal to the binary digits of the initial number. So since 103 has 7 binary digits in its binary representation 1100111, the sum of the numbers in the brackets { 1 1 2 1 1 1} is 7. 
+Where 103, is the number in decimal notation and 1100111 is the number in binary notation. The values in the brackets { 1 1 2 1 1 1 } are the numbers of divisions by 2 that took place after each multiplication by 3 and addition of 1. For example, since 103 is an odd number, we would input it into the Collatz Function and obtain the following result. 3 * 103 + 1 = 310, we then divide by 2 310/2 = 155. Since we have an odd number the next step is to multiply by 3, and so the first value in the brackets is { 1 ...}. In this limited program the sum of the digits in the brackets is equal to the binary digits of the initial number. So since 103 has 7 binary digits in its binary representation 1100111, the sum of the numbers in the brackets { 1 1 2 1 1 1 } is 7. 
 
 
 ### But Why?
